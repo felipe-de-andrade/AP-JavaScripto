@@ -1,0 +1,8 @@
+.tarefas{
+    border: 1px solid #404040;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    min-width: 400px;
+};
+
